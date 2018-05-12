@@ -1,0 +1,6 @@
+framework module Pods_ScanForDevice {
+  umbrella header "Pods-ScanForDevice-umbrella.h"
+
+  export *
+  module * { export * }
+}
